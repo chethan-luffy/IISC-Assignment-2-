@@ -8,7 +8,7 @@ M.Tech (CSE) technical assignment: detecting and explaining abnormal patterns in
 | **USN** | `1DA25SCS04` |
 | **Seed S** | **2504** (last four digits of the USN, used everywhere) |
 | **Questions answered** | **A** (Detect), **C** (Design), **D** (Live dashboard), each with Levels 1 to 3 |
-| **Demo video** | `` |
+| **Demo video** | ` https://drive.google.com/drive/folders/1vOo0cp-5V4jL-YCoTPday38jbvPbHqk5` |
 | **Personal intelligence note** | [PERSONAL_INTELLIGENCE.md](PERSONAL_INTELLIGENCE.md) (decision log and AI usage declaration) |
 
 ---
