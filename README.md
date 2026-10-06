@@ -1,6 +1,6 @@
 AI-Driven Anomaly Detection and
 Monitoring System: Project Report
-Chethan | USN 1DA25SCS04 | Seed S = 2504 | M.Tech (CSE) technical assignment, 6
+Chethan Prasad L | USN 1DA25SCS04 | Seed S = 2504 | M.Tech (CSE) technical assignment, 6
 October 2026
 1. Purpose
 The assignment asks for a system that finds abnormal patterns in wearable sensor data
