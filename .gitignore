@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+env/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Demo video (goes to Google Drive, not GitHub)
+*.mp4
+*.mov
+*.mkv
+
+# Local databases created by the producer/dashboard (Question D)
+*.db
+*.sqlite
+*.sqlite3
+
+# Secrets, if you ever add any
+.env

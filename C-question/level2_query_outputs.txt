@@ -1,0 +1,27 @@
+Q1. Alerts per user in the last 24 hours
+user_id  name                       alerts_last_24h
+-------  -------------------------  ---------------
+1        user_1 (offset 0)          22             
+2        user_2 (+45 min)           22             
+3        user_3 (-26 h, yesterday)  0              
+(3 rows)
+
+Q2. Users with more than five alerts in any one hour
+user_id  max_alerts_in_any_hour
+-------  ----------------------
+1        14                    
+2        14                    
+3        14                    
+(3 rows)
+
+Q3. Average heart rate per user per hour
+user_id  hour_start        readings  avg_hr_all  avg_hr_valid
+-------  ----------------  --------  ----------  ------------
+1        2026-10-06 09:00  3600      68.73       69.23       
+1        2026-10-06 10:00  3600      71.14       71.74       
+2        2026-10-06 09:00  900       70.1        70.1        
+2        2026-10-06 10:00  3600      66.74       67.57       
+2        2026-10-06 11:00  2700      74.15       74.48       
+3        2026-10-05 07:00  3600      68.73       69.23       
+3        2026-10-05 08:00  3600      71.14       71.74       
+(7 rows)
